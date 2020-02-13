@@ -8,5 +8,7 @@ __Continue to be bold__
 
 1. A
 2. B
-  1. C
+
+- checklist
+- apple
 ![GitHub Logo](/images/logo.png)
