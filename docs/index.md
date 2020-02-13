@@ -10,5 +10,5 @@ __Continue to be bold__
 2. B
 
 - checklist
-- apple
+  - apple
 ![GitHub Logo](/images/logo.png)
